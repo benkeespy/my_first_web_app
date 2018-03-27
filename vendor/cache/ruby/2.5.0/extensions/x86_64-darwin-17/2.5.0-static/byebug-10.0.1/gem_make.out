@@ -1,0 +1,19 @@
+current directory: /Users/BenjiKee/Desktop/Web_dev/my_first_web_app/vendor/cache/ruby/2.5.0/gems/byebug-10.0.1/ext/byebug
+/Users/BenjiKee/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180326-30606-11dacbv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/BenjiKee/Desktop/Web_dev/my_first_web_app/vendor/cache/ruby/2.5.0/gems/byebug-10.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/BenjiKee/Desktop/Web_dev/my_first_web_app/vendor/cache/ruby/2.5.0/gems/byebug-10.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/BenjiKee/Desktop/Web_dev/my_first_web_app/vendor/cache/ruby/2.5.0/gems/byebug-10.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 byebug.bundle ./.gem.20180326-30606-1o93qtx/byebug
